@@ -26,7 +26,7 @@ Run the application Open another terminal and still within the blog-backend proj
 
 npm run start:dev 
 
-This will start the backend application on port 3000.
+This will start the backend application on port http://localhost:3000.
 
 Frontend Open another terminal from the nest-vue-project and navigate to the blog-frontend folder to setup the frontend
 

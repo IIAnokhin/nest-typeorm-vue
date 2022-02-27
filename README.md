@@ -5,13 +5,17 @@ Getting Started This prototype is divided into two separate sections. Namely the
 
 Backend Change directory into the backend cd backend Install backend dependencies npm install
 
-Mysql Ensure that you have Mysql installed on your machine before running the application. Start mongoDB:
+Mysql Ensure that you have Mysql installed on your machine before running the application. 
+
+Start mongoDB:
 
 sudo service mysql start
 
 Run the application Open another terminal and still within the blog-backend project directory run the application with:
 
-npm run start:dev This will start the backend application on port 3000.
+npm run start:dev 
+
+This will start the backend application on port 3000.
 
 Frontend Open another terminal from the nest-vue-project and navigate to the blog-frontend folder to setup the frontend
 

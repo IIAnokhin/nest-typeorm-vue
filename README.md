@@ -2,7 +2,13 @@ Build a simple project using Nest.js, Vue.js and TypeORM
 
 Getting Started This prototype is divided into two separate sections. Namely the Backend ( Built with Nest.js) and the frontend ( Built with Vue.js ).
 
-Backend Change directory into the backend cd backend Install backend dependencies npm install
+Backend Change directory into the backend 
+
+cd backend 
+
+Install backend dependencies 
+
+npm install
 
 Mysql ensure that you have Mysql installed on your machine before running the application. 
 

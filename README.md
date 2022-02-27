@@ -12,7 +12,7 @@ sudo service mysql start
 
 sudo mysql
 
-create database <your base>
+create database #your database
   
 And substitute your data into the app.module.ts
 

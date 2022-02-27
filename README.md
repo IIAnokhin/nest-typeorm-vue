@@ -1,4 +1,3 @@
-nest-typeorm-vue
 Build a simple project using Nest.js, Vue.js and TypeORM
 
 Getting Started This prototype is divided into two separate sections. Namely the Backend ( Built with Nest.js) and the frontend ( Built with Vue.js ).

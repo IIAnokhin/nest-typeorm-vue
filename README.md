@@ -10,6 +10,12 @@ Start Mysql:
 
 sudo service mysql start
 
+sudo mysql
+
+create database <your base>
+  
+And substitute your data into the app.module.ts
+
 Run the application Open another terminal and still within the blog-backend project directory run the application with:
 
 npm run start:dev 

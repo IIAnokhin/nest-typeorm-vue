@@ -7,7 +7,7 @@ Backend Change directory into the backend cd backend Install backend dependencie
 
 Mysql Ensure that you have Mysql installed on your machine before running the application. 
 
-Start mongoDB:
+Start Mysql:
 
 sudo service mysql start
 

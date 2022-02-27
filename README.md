@@ -22,15 +22,18 @@ create database #your database
   
 And substitute your data into the app.module.ts
 
-Run the application Open another terminal and still within the blog-backend project directory run the application with:
+Run the application Open another terminal and still within the backend project directory run the application with:
 
 npm run start:dev 
 
 This will start the backend application on http://localhost:3000.
 
-Frontend Open another terminal from the nest-vue-project and navigate to the blog-frontend folder to setup the frontend
+Frontend Open another terminal from the nest-vue-project and navigate to the frontend folder to setup the frontend
 
-Frontend dependencies cd frontend npm install
+Frontend dependencies 
+cd frontend 
+
+npm install
 
 Run the frontend app 
 

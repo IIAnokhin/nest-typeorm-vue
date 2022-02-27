@@ -21,6 +21,8 @@ Frontend Open another terminal from the nest-vue-project and navigate to the blo
 
 Frontend dependencies cd frontend npm install
 
-Run the frontend app npm run serve
+Run the frontend app 
+
+npm run serve
 
 Test the application Finally open your browser and view the application on http://localhost:8080

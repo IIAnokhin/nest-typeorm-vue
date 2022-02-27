@@ -31,6 +31,7 @@ This will start the backend application on http://localhost:3000.
 Frontend Open another terminal from the nest-vue-project and navigate to the frontend folder to setup the frontend
 
 Frontend dependencies 
+
 cd frontend 
 
 npm install

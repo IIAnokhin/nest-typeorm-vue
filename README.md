@@ -5,7 +5,7 @@ Getting Started This prototype is divided into two separate sections. Namely the
 
 Backend Change directory into the backend cd backend Install backend dependencies npm install
 
-Mysql Ensure that you have Mysql installed on your machine before running the application. 
+Mysql ensure that you have Mysql installed on your machine before running the application. 
 
 Start Mysql:
 
